@@ -45,7 +45,7 @@ Qs (query string parsing
 
 ⚙️ Installation & Setup
 1️⃣ Clone repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/sedkilajmi/chat-app.git
 
 2️⃣ Navigate to project folder
 cd YOUR_REPO
