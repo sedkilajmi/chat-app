@@ -41,26 +41,7 @@ Mustache.js (templating)
 
 Moment.js (date formatting)
 
-Qs (query string parsing)
-
-📂 Project Structure
-project-root
-│
-├── src
-│   ├── index.js
-│   ├── utils
-│   │   ├── messages.js
-│   │   └── users.js
-│
-├── public
-│   ├── index.html
-│   ├── chat.html
-│   ├── css
-│   ├── js
-│   └── img
-│
-├── package.json
-└── README.md
+Qs (query string parsing
 
 ⚙️ Installation & Setup
 1️⃣ Clone repository
